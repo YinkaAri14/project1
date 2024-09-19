@@ -4,4 +4,17 @@
 }
 body{
     font-family: "Epilogue", sans-serif;
+    font-size: small;
+    font-weight: 400;
+}
+image{url(../img/IMG_9959.JPG)
+width: 200px;}
+h1
+h2
+h3
+h4
+h5
+h6{
+    font-family: "Syne", sans-serif;
+    font-weight: 700;
 }
